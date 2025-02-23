@@ -1,18 +1,15 @@
 # Dadar Blockchain Specification
 
-- Coin Name: Dadar Cash
+- Coin Name: Dadar Pay
 - Coin Ticker: DDR
-- Max Supply: 10,000,000
+- Max Supply: 100,000,000
 - Block Time: 60s
-- Premine: 200,000
-- Collateral: 5,000
-- Distribution: Masternode 70% / PoS 20% / Dev 10%
+- Premine: No Premine
+- Collateral: Variable - Starts from 100 DDR
+- Distribution PoW Phase: Masternode 50% / PoW 45% / Dev 5%
+- Distribution PoS Phase: Masternode 70% / PoS 25% / Dev 5%
 - P2P Port: 19869
 - RPC Port: 19870
-
-# About Dadar Cash
-
-Cryptocurrency designed for a diverse range of applications.
 
 # Links
 
