@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Dadar 
+Comment=Dadar P2P Cryptocurrency
+Comment[fr]=Dadar, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dadar, eşten eşe kriptografik sanal para birimi
+Exec=ddr-qt %u
+Terminal=false
+Type=Application
+Icon=ddr128
+MimeType=x-scheme-handler/ddr;
+Categories=Office;Finance;
+StartupWMClass=ddr-qt
