@@ -1,5 +1,5 @@
 package=boost
-$(package)_version=1_85_0
+$(package)_version=1_72_0
 $(package)_download_path=https://archives.boost.io/release/$(subst _,.,$($(package)_version))/source/
 $(package)_file_name=$(package)_$($(package)_version).tar.bz2
 $(package)_sha256_hash=7009fe1faa1697476bdc7027703a2badb84e849b7b0baad5086b087b971f8617
