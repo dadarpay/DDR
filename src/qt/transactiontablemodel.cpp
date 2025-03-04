@@ -30,6 +30,8 @@
 #include <QtConcurrent/QtConcurrent>
 #include <QFuture>
 
+using namespace boost::placeholders;
+
 #define SINGLE_THREAD_MAX_TXES_SIZE 4000
 
 // Maximum amount of loaded records in ram in the first load.
